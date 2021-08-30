@@ -6,7 +6,7 @@
 
     <groupId>ru.diasoft</groupId>
     <artifactId>dq-config-server</artifactId>
-    <version>1.0.1</version>
+    <version>${deploy.version}</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
